@@ -1,0 +1,15 @@
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/bin/Debug/net9.0/KPO
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/bin/Debug/net9.0/KPO.deps.json
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/bin/Debug/net9.0/KPO.runtimeconfig.json
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/bin/Debug/net9.0/KPO.dll
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/bin/Debug/net9.0/KPO.pdb
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/KPO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/KPO.AssemblyInfoInputs.cache
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/KPO.AssemblyInfo.cs
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/KPO.csproj.CoreCompileInputs.cache
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/KPO.sourcelink.json
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/KPO.dll
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/refint/KPO.dll
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/KPO.pdb
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/KPO.genruntimeconfig.cache
+/Users/mixail.rychagov/учеба/кпо/CW1/KPO/KPO/obj/Debug/net9.0/ref/KPO.dll
